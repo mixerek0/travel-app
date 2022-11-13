@@ -1,6 +1,6 @@
 # booking-copy
 
-copy of booking.com for learning purposes
+Copy of booking.com for learning purposes.Its not finished
 
 ## Installation
 
