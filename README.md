@@ -1,6 +1,6 @@
 # booking-copy
 
-Copy of booking.com for learning purposes.Its not finished
+ravel-app, app is build for learning purposes
 
 ## Installation
 
