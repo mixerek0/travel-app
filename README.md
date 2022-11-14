@@ -1,6 +1,6 @@
 # booking-copy
 
-ravel-app, app is build for learning purposes
+travel-app, app is build for learning purposes
 
 ## Installation
 
